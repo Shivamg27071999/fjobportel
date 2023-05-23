@@ -1,0 +1,76 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url("https://th.bing.com/th/id/OIP.Jgqimm0CVmJHGHS8_N57gQHaEo?pid=ImgDet&rs=1");
+    background-color: rgb(87, 85, 85);
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    background-color: rgb(77, 80, 79);
+    height: 40px;
+    color: aliceblue;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;  
+
+}
+ul li{
+    color: aliceblue;
+    font-size: 16px;
+    margin-left: 20px;  
+    margin-right: 25px;
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a:hover{
+    color: skyblue;
+
+}
+.contact{
+    background-color: rgb(44, 44, 44);
+}
+.jobdata{
+
+    position: center;
+    width: 350px;
+    height: 200px;
+    color: rgb(255, 238, 212);
+    margin: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    display: inline-grid;
+    background-color: rgb(44, 44, 44);
+    
+    border-radius: 10px;
+}
+h3{
+    color: azure;
+}
+.jobdata:hover{
+    background-color: rgb(95, 114, 114);
+}
+.jobdata h3{
+    color: antiquewhite;
+}
+h1{
+    color: azure;
+}
+h1 span{
+    color: antiquewhite;
+    font-size: 16px;
+}
+
+/* .form-group{
+    margin: 20px;
+}
+.form-group input{
+    height: 30px;
+    width: 180px;
+} */
